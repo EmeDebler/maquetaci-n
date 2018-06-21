@@ -33,7 +33,9 @@ el footer mantendrá el logo y redes sociales.
 ## maquetación
 
 - se crea archivo index.html y carpeta assets donde se encuentra la hoja de estilo propio, img y fonts.
-- se da estructura a index.html usando navbar, Jumbotron y sistema de grillas 
- de Bootstrap.
-
+- se da estructura a index.html usando navbar, Jumbotron y sistema de grillas de Bootstrap.
+- se agregan iconos y tipos de letras y se agregan a estructura html.
+- se comienza a trabajar en archivo css de estilo propio , usando los estilos que el diseñador envió.
+-se finaliza actividad agregando estilo propio a la estructura html antes mencionada. 
+- 
 
